@@ -1,0 +1,15 @@
+{
+  "name": "alexa-uncleiroh",
+  "version": "1.0.0",
+  "description": "Uncle Iroh gives advice.",
+  "main": "index.js",
+  "scripts": {
+    "zip": "zip -r alexa-uncleiroh.zip .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}

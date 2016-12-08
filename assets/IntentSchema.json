@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "SingIntent"
+    },
+    {
+      "intent": "QuoteIntent"
+    },
+    {
+      "intent": "FavoriteTeaIntent"
+    },
+    {
+      "intent": "WouldYouLikeTeaIntent"
+    },
+    {
+      "intent": "SickOfTeaIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}

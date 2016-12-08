@@ -1,0 +1,23 @@
+SingIntent to sing to me
+SingIntent sing to me
+SingIntent to sing Little Soldier Boy
+SingIntent sing me a song
+SingIntent can you sing me a song
+
+QuoteIntent I need advice
+QuoteIntent I need some advice
+QuoteIntent give me some advice
+QuoteIntent for some advice
+QuoteIntent for advice
+
+FavoriteTeaIntent what is your favorite kind of tea
+FavoriteTeaIntent what kind of tea do you like
+FavoriteTeaIntent what tea is your favorite
+
+WouldYouLikeTeaIntent would you like some tea
+WouldYouLikeTeaIntent do you want some tea
+WouldYouLikeTeaIntent if he would like some tea
+
+SickOfTeaIntent do you hate tea
+SickOfTeaIntent are you sick of tea
+SickOfTeaIntent if he hates tea
