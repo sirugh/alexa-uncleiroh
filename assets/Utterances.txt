@@ -4,8 +4,6 @@ SingIntent to sing Little Soldier Boy
 SingIntent sing me a song
 SingIntent can you sing me a song
 
-QuoteIntent I need advice
-QuoteIntent I need some advice
 QuoteIntent give me some advice
 QuoteIntent for some advice
 QuoteIntent for advice

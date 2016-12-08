@@ -48,7 +48,7 @@ var stateHandlers = {
     this.emit(':tell', 'Take care, Avatar!')
   },
   'AMAZON.HelpIntent': function () {
-    this.emit(':tell', 'You can say, "I need advice", or "sing to me", or "".')
+    this.emit(':tell', 'You can say, "I need advice", or "sing to me", or "would you like some tea?".')
   },
   'AMAZON.NoIntent': function () {
     this.emit('EndSession', 'Goodbye everyone. Today, destiny is our friend. I know it.');
@@ -71,5 +71,6 @@ var QUOTES = [
   'There is nothing wrong with letting people who love you, help you. Not that I love you. I just met you.',
   'It is usually best to admit mistakes when they occur, and to seek to restore honor.',
   'Sometimes the best way to solve your own problems is to help someone else.',
+  'Even in the material world, you will find that if you look for the light, you can often find it. But if you look for the dark, that is all you will ever see.',
   'Many things that seem threatening in the dark become welcoming when we shine light on them.'
 ]
